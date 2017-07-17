@@ -8,7 +8,8 @@ public class Main {
     public static Scanner scanner = new Scanner(System.in);
 
         public static void main(String[] args) {
-            System.out.println("Gimmie a numba");
+            int notUse = 1;
+            System.out.println("Gimmie a numba"+ notUse);
             String firstInput = scanner.nextLine();
 
             System.out.println("Gimmie anotha numba");
